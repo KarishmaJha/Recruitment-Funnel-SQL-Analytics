@@ -1,0 +1,2 @@
+-- Database schema for Recruitment Funnel Analysis
+-- Tables will be created here
