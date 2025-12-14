@@ -1,2 +1,7 @@
--- SQL queries for recruitment funnel and hiring performance analysis
+Hiring funnel analysis
 
+Recruiter performance
+
+Time-to-hire
+
+Offer-to-joining ratio
